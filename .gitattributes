@@ -102,3 +102,9 @@ demo/send/pages/b_t_s_out_0f_1_c_1.png filter=lfs diff=lfs merge=lfs -text
 demo/send/pages/b_t_s_out_0f_1_c.png filter=lfs diff=lfs merge=lfs -text
 demo/send/pages/b_t_s_out_0f_f.png filter=lfs diff=lfs merge=lfs -text
 demo/send/pages/b_t_s_out_0f_s.png filter=lfs diff=lfs merge=lfs -text
+zerolink/pages/business_tasks_launder_new.png filter=lfs diff=lfs merge=lfs -text
+zerolink/pages/business_tasks_new.png filter=lfs diff=lfs merge=lfs -text
+zerolink/pages/business_tasks.png filter=lfs diff=lfs merge=lfs -text
+zerolink/pages/business_tasks_full.png filter=lfs diff=lfs merge=lfs -text
+zerolink/pages/business_tasks_launder_inprogress.png filter=lfs diff=lfs merge=lfs -text
+zerolink/pages/business_tasks_launder_new_denom.png filter=lfs diff=lfs merge=lfs -text
